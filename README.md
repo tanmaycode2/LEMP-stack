@@ -63,3 +63,7 @@ If you want to host a PHP website, you will have to copy your files to `/var/www
 If we want to host php file on webserver then clone the respository  via `git clone <url>` command.
 Make sure that you add files in add the files in 
  `/var/www/html ` folder.
+ 
+![Deploy php site on LEMP](https://user-images.githubusercontent.com/96629547/175245661-2aba2fe9-c89b-4e55-a6c2-8eb48da5e59d.jpg)
+ 
+ 

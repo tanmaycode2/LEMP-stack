@@ -8,7 +8,7 @@ Let's install the LEMP stack now. Follow the steps below:
 ###Step 1 - Update the server's package index
 Update the server's package index by executing the command below:
 `sudo apt update`
-![image](https://user-images.githubusercontent.com/96629547/175219719-afb4629a-4891-41c4-b023-727a9de4bf4f.png)
+
 
 ###Step 2 - Install Nginx
  Install Nginx usng tje command below:
@@ -63,5 +63,7 @@ If you want to host a PHP website, you will have to copy your files to `/var/www
 If we want to host php file on webserver then clone the respository  via `git clone <url>` command.
 Make sure that you add files in add the files in 
  `/var/www/html ` folder.
+ 
+ 
  
  
